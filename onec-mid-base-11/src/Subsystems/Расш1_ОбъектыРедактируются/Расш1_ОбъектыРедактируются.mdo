@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="97cfa917-7f2f-45fa-b9de-f5efb0588201">
+  <name>Расш1_ОбъектыРедактируются</name>
+  <synonym>
+    <key>ru</key>
+    <value>Объекты редактируются</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Catalog.Расш1_Должность</content>
+  <content>Catalog.Расш1_КонтактныеЛица</content>
+</mdclass:Subsystem>
